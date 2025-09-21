@@ -3,5 +3,6 @@ export interface PillProps {
 }
 
 export interface ButtonProps {
-    name: string
+    styles: string
+
 }
